@@ -6,7 +6,7 @@ using SonicBloom.Koreo;
 public class grooveController : MonoBehaviour {
     public GameObject groove;
     //same shit as the schutController but for Grooves
-    Vector3 left = new Vector3((float)-8.6, 7, (float)-.9);
+    Vector3 left = new Vector3(0, 7, (float)-.9);
     Vector3 right = new Vector3((float)8.6, 7, (float).9);
 
 	void Start () {
