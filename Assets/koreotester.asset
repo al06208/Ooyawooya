@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
   m_Name: koreotester
   m_EditorClassIdentifier: 
-  mSourceClip: {fileID: 8300000, guid: f88f1a58afc6cde46b0a3f3ac39bc308, type: 3}
+  mSourceClip: {fileID: 8300000, guid: f71beb526ded503438e54d0357cddd3d, type: 3}
   mAudioFilePath: 
   mSampleRate: 44100
   mIgnoreLatencyOffset: 0
