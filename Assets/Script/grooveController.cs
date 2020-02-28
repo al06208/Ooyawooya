@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using SonicBloom.Koreo;
 
+// :)
 public class grooveController : MonoBehaviour {
     public GameObject groove;
     //same shit as the schutController but for Grooves
