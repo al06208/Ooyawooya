@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//is this script even necessary? Probably not
 public class GrooveZone : MonoBehaviour {
     public string key;
     // Use this for initialization
